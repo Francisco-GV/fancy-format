@@ -14,7 +14,7 @@ The complete list of codes [can be found here](https://en.wikipedia.org/wiki/ANS
   <img src="https://user-images.githubusercontent.com/54688495/124044607-6756ca00-d9d3-11eb-9d0e-d7b8d99c9ae2.png">
 </p>
 
-_Note: The appearance may be different depending on the console, the font and different configurations, the screenshots were taken in [Windows Terminal](https://github.com/microsoft/terminal) and the [JetBrains Mono](https://www.jetbrains.com/lp/mono/) font._
+_Note: The appearance may be different depending on the console, the font and different configurations, the screenshots were taken in [Windows Terminal](https://github.com/microsoft/terminal) and the **Cascadia Mono** font._
 
 ## Warning
 Not all consoles support ANSI escape codes and this library does not provide any way to check if yours is compatible.
